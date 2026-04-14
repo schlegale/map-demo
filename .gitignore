@@ -1,0 +1,15 @@
+# Root
+node_modules/
+.DS_Store
+
+# Mobile
+apps/mobile/node_modules/
+apps/mobile/.expo/
+apps/mobile/android/
+apps/mobile/ios/
+
+# Backend
+apps/backend/.env
+apps/backend/venv/
+apps/backend/__pycache__/
+apps/backend/*.pyc
